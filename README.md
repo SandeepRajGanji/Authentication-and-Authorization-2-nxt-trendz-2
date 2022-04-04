@@ -11,7 +11,7 @@ In this project, let's build **Nxt Trendz** app with authentication
 </details>
 
 
-find the project @ https://rajnxttrends.ccbp.tech/login
+find the project @ https://rajnxttrends.ccbp.tech/
 
 username:rahul
 password:rahul@2021
